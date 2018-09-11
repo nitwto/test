@@ -2,3 +2,4 @@ what you want
 172.20.0.231 this the test server for wsdc students
 it is for only students 
 We will provide like groups in the ubuntu os
+UBUNTU version is 16.04.05
